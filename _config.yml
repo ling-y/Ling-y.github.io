@@ -1,25 +1,23 @@
 # Site configuration
 domain: "http://songroger.win"
 baseurl: "/murmur" # the subpath of your site, e.g. /blog
-url: "http://songroger.github.io/" # the base hostname & protocol for your site
+url: "http://lingggd.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: /murmur/assets/avatar.jpg
 about: /murmur/assets/about.jpg
 favicon: /murmur/assets/favicon.ico
 basecss: 
 # Theme specific configuration
-title: songroger
+title: LING
 description: >
-  Hi there, My name is Luozhan.Song, usually I use "songroger" as my ID everywhere.
-  I was born and raised in Hunan China. 
-  I'm really fond of beautiful design, drawing etc.
+ 愿无言而依偎，听落地的钟。
 
 # Contact and social media links
-twitter_username: songrogero
-github_username: songroger
-facebook_username: song.roger.1
-instagram_username: songroger198
-linkedin_username: songroger
+# twitter_username: songrogero
+# github_username: songroger
+# facebook_username: song.roger.1
+# instagram_username: songroger198
+# linkedin_username: songroger
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
 
