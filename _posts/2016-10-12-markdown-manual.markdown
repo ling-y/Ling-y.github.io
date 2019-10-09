@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Markdown"
-date:   2016-10-12 17:13:17 +0800
+title:  "胡言胡语"
+date:   2018-06-19 17:13:17 +0800
 categories: diary
-location: Florence, Italy
-description: love markdown, love plain texts. Enjoy its manual
+location: Nanjing
+description: 成功是什么？不就是赚点儿钱，叫傻逼们都知道吗。
 ---
 ---
 Markdown manual
