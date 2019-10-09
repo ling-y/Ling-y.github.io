@@ -1,17 +1,15 @@
 ---
 layout: post
-title:  "The Murmur Theme"
-date:   2015-11-15 13:05:14 +0100
+title:  "闯南闯北"
+date:   2019-09-30 13:05:14 +0100
 categories: jekyll theme
-author: songroger
+author: LING
 cover: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/600px-Meisje_met_de_parel.jpg"
 cover_display: True
-location: Florence, Italy
-description: Murmur theme presents your words & photographs in a handsome, agreeable manner.
+location: Los Angeles
+description: 小孩子是不懂得等待的，只知石榴花开，暑假到来。
 tail: I'm a tail
 ---
 ---
-Landing somewhere between a scholarly publication and an adventurers notebook, the Murmur theme presents your words & photographs in a handsome, agreeable manner. It is well behaved on both mobile & desktop and radically minimal in its footprint. Charged and ready for deployment to Github Pages.
-
-Suitable for shortform, longform, and probably even waveform. It is purpose-built to accomodate photographic content wonderfully and lends itself well to journaling your sojourn.
+我的暑期三月回响。
 
