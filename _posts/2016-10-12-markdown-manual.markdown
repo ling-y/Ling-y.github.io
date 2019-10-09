@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "胡言胡语"
+title:  "胡言胡语 | NO COMMENTS"
 date:   2018-06-19 17:13:17 +0800
 categories: diary
 location: Nanjing
