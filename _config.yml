@@ -10,13 +10,17 @@ basecss:
 # Theme specific configuration
 title: LING
 description: >
-毛姆说同时做一位绅士和作家是一件非常难的事
+同时做一位绅士和作家是一件非常难的事 
 |
 It’s very hard to be a gentleman and a writer.
+|
+- 毛姆 Maugham
 |
 我说同时做一位码农和作家是一件非常难的事  
 |
 It's very hard to be a programmer and a writer.
+|
+- 我 ME
 
 # Contact and social media links
 # twitter_username: songrogero
