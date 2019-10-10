@@ -9,8 +9,9 @@ permalink: /:title/
 basecss: 
 # Theme specific configuration
 title: LING
-description: >
-毛姆Maugham说, 同时做一位绅士和作家是一件非常难的事. It’s very hard to be a gentleman and a writer.
+description: |
+毛姆Maugham说, 同时做一位绅士和作家是一件非常难的事.  It’s very hard to be a gentleman and a writer.
+|
 我Lingyan说, 同时做一位码农和作家是一件非常难的事.  It's very hard to be a programmer and a writer.
 
 # Contact and social media links
