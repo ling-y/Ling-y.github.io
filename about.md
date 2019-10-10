@@ -2,5 +2,8 @@
 layout: page
 title: About
 ---
-{{ site.description }}
-![contact:doulingyan@outlook.com]({{ http://lingyea.xyz/me/ }})
+
+contact:doulingyan@outlook.com
+============================
+Or more: [Go-to-Me](http://lingyea.xyz/me/)
+============================
