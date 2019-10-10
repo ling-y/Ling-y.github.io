@@ -9,11 +9,11 @@ permalink: /:title/
 basecss: 
 # Theme specific configuration
 title: LING
-description: >
- 同时做一位绅士和作家是一件非常难的事  -毛姆
- 同时做一位码农和作家是一件非常难但事  -窦泠砚
- It’s very hard to be a gentleman and a writer.  - W. Somerset Maugham
- It's very hard to be a programmer and a writer.  - Lingyan Dou
+description: 
+ >同时做一位绅士和作家是一件非常难的事  -毛姆
+ >同时做一位码农和作家是一件非常难但事  -窦泠砚
+ >It’s very hard to be a gentleman and a writer.  - W. Somerset Maugham
+ >It's very hard to be a programmer and a writer.  - Lingyan Dou
 
 # Contact and social media links
 # twitter_username: songrogero
