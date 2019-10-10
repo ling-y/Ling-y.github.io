@@ -13,8 +13,8 @@ tail: 本文又名《没有cs的三个月》
 ---
 
 >小孩子是不懂得等待的，只知石榴花开，暑假到来。Kids don't know anything about patience. They only know when the pomegranate blossoms, the summer starts.
->BY 木心
-============================
+> | BY 木心
+
 
 我的暑假三月回响，以流水账说服自己没有浪费时间。
 
