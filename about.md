@@ -3,6 +3,6 @@ layout: page
 title: About
 ---
 
-##### Contact: doulingyan@outlook.com
+Contact: doulingyan@outlook.com
 
-##### Or [Learn-More-About-Me](http://lingyea.xyz/me/)
+Or [Learn-More-About-Me](http://lingyea.xyz/me/)
