@@ -7,12 +7,12 @@ author: LING
 cover: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Girl-at-sewing-machine-edward-hopper-1921.jpg"
 cover_display: True
 location: Los Angeles
-description: 小孩子是不懂得等待的，只知石榴花开，暑假到来。Kids don't know anything about patience. They only know when the pomegranate blossoms, the summer starts.
+description: 小孩子是不懂得等待的，只知石榴花开，暑假到来。Kids ain't know nothing about patience. They only know when the pomegranate blossoms, summer starts.
 tail: 本文又名《没有cs的三个月》，图为“Girl-at-sewing-machine-edward-hopper-1921”。
 ---
 ---
 
->小孩子是不懂得等待的，只知石榴花开，暑假到来。Kids don't know anything about patience. They only know when the pomegranate blossoms, the summer starts.
+>小孩子是不懂得等待的，只知石榴花开，暑假到来。Kids don't know anything about patience. They only know when the pomegranate blossoms, summer starts.
 > | BY 木心
    
    
