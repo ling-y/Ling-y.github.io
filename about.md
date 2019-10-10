@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 {{ site.description }}
-![doulingyan@outlook.com]({{ site.about }})
+![contact:doulingyan@outlook.com]({{ http://lingyea.xyz/me/ }})
