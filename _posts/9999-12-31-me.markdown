@@ -71,27 +71,37 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
         2015     Third friend good at drawing. Isn't that insteresting,
                  that I am always surrounded by art people. I liked it.
         
-        2016     
-        国际部的规章制度并不严苛，我开始有很多闲时，参加活动，
-        2016        譬如被拉进数学建模社团，被迫学了很多用不上的数学知识，
-        2016        譬如开始接触到戏剧，写剧本，演出，
-        2016        和朋友为了一场表演，考前凌晨坐慢车赶往另一个城市，
-        2016        同时拼命学习英语，借口看了很多美剧电影脱口秀--
-        2016        最喜欢吉米欧阳，太棒了，我一看他心情就好。
-        2016        与几个朋友一起创立影视工作室，写剧本，学特效、剪辑，
-        2016        拍女权，贫困儿童，平原远山，也拍学校，拍我们自己。
+        2016     High school was relatively loosened and relaxing. 
+                 Had free time. Did quite a lot activities.
+        2016     I was invited into the math modeling club.
+                 Forced to learn stuff that were too harsh for high school.
+        2016     Started to do theater. Wrote scripts. Performed.
+        2016     Hurried to a different city taking a midnight train,
+                 just to see a musical which was newly produced.
+        2016     Learned my ass off English. In the name of that,
+                 Did watch a lot of films and shows.
+        2016     Jimmy O. Yang is my favorite. He is just awesome.
+        2016     Founded a media studio with friends. Learned editing skills.
+        2016     Filmed feminism, minority kids, big topics. Also ourselves. 
         
-        2017        暑假没事跑到周边大学听课，帮哥哥姐姐打下手，
-        2017        调整光学经纬仪的麻烦任务落我身上，很难操作，我很头疼，
-        2017        在奔溃边缘提出：把经纬仪改进成激光的吧。
-        2017        我还上了很多大学学分课，心理，历史，物理...
-        2017        尽管有些科目考完再没机会接触过，但我很高兴能够尝试学习。
-        2017        我还完成了好几场节日表演，改编了音乐剧汉密尔顿。
-        2017        女权观念在国内兴起，有知名工程师发起教女生学编程活动，
+        2017    Spent my summer in nearby college, doing simple tasks.
+        2017    Like adjusting the optical theodolite for college students.
+                That's pure suffering. My eyes were exhausted.
+        2017    I questioned: Why not integrading laser into that thing? 
+                We did.
+        2017    I finished some college credit classes. 
+                Psychology. World History. Physics...
+                I was just happy to learn new things. Different territories.
+        2017    Performed a few shows. Which I wrote. 
+                Adapted from Hamilton the Musical.
+        2017    The worldwide wave of feminism officially landed in China.
+                A former Google employee started a project "TeachGirlsCoding"
         
-        2018        我积极参加，自学基础知识，又找办法联系上了这位工程师，
-        2018        在他的帮助下，我们在南京建立workshop，尽管参加者不多。
-        2018        我终于收到了激光经纬仪的专利。
+        2018    I was one of the first ones to join. Taught myself basic coding.
+                Emailed the starter to see if I could do something more.
+        2018    Set up Nanjing offline Workshop with his help. To be honest,
+                not many came. But even helping one person makes me happy.
+        2018    I finally received the patent for the Laser Theodolite.
         2018        每天熬夜写文书，换内容重写了五遍，凌晨查到ucla的录取。
         2018        我们工作室制作了毕业视频，毕业那天在大屏幕上循环播放，
         2018        与朋友彻夜畅饮，问，像不像汉密尔顿里今夜故事那场戏？
