@@ -17,25 +17,20 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2000&nbsp;&nbsp;&nbsp;&nbsp;"Hello World"
 
 <br>&nbsp;
-
 2001&nbsp;&nbsp;&nbsp;&nbsp;Growing...
 
 <br>&nbsp;
-
 2002&nbsp;&nbsp;&nbsp;&nbsp;Walking、speaking、fighting over a toy...
 
 <br>&nbsp;
-    
 2003&nbsp;&nbsp;&nbsp;&nbsp;Starting to remember things.
  
 <br>&nbsp;
-       
 2004&nbsp;&nbsp;&nbsp;&nbsp;As a kid, I was not fond of picture-taking.
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because I hated standing still.
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frowned everytime I was taking a photo.
 
 <br>&nbsp;
- 
 2005&nbsp;&nbsp;&nbsp;&nbsp;My parents still make fun of me cause of this, 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I just pretend I don't remember any of it.
   
@@ -44,36 +39,29 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2006&nbsp;&nbsp;&nbsp;&nbsp;I invented a game in my Elementary school,
    
 <br>&nbsp;
-     
 2007&nbsp;&nbsp;&nbsp;&nbsp;Which was called "Boys VS Girls".
    
 <br>&nbsp;
-     
 2008&nbsp;&nbsp;&nbsp;&nbsp;I always chased after the boy I liked. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He couldn't overrun me,
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so I often held him as hostage.
       
 <br>&nbsp;
-  
 2009&nbsp;&nbsp;&nbsp;&nbsp;And to trade girls back from the boy-team using him.
         
 <br>&nbsp;
-
 2010&nbsp;&nbsp;&nbsp;&nbsp;This game went viral. Soon banned. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though we played secretly.
         
 <br>&nbsp;
-            
 2011&nbsp;&nbsp;&nbsp;&nbsp;Met my best friend in Elementary. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A transfer. Real good at drawing.
         
 <br>&nbsp;
-
 2012&nbsp;&nbsp;&nbsp;&nbsp;Was the one 1st in class to talk to her. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still good buddies nowadays.
        
 <br>&nbsp;
- 
 2013&nbsp;&nbsp;&nbsp;&nbsp;Junior High was a pain. Way too much homeworks. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Especially for Math. 
 
@@ -83,8 +71,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2013&nbsp;&nbsp;&nbsp;&nbsp;I did the HWs selectively. Only the challenging ones. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teacher didn't like me for that.
  
-<br>&nbsp;
-       
+ <br>&nbsp;       
 2014&nbsp;&nbsp;&nbsp;&nbsp;Made another friend good at drawing. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We discussed a lot, about books and paintings.
       
@@ -97,8 +84,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2014&nbsp;&nbsp;&nbsp;&nbsp;Wrote 20k. Not finished. Few friends were willing to read it. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They all demanded me to write an ending.
       
-<br>&nbsp;
- 
+<br>&nbsp; 
 2015&nbsp;&nbsp;&nbsp;&nbsp;Troubled. Felt nobody would be good enough for her.
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made her leave the city lonely to pursue something greater.
   
@@ -108,8 +94,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2015&nbsp;&nbsp;&nbsp;&nbsp;Third friend good at drawing. Isn't that insteresting,
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that I am always surrounded by art people. I liked it.
     
-<br>&nbsp;
-    
+<br>&nbsp;    
 2016&nbsp;&nbsp;&nbsp;&nbsp;High school was relatively loosened and relaxing. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had free time. Did quite a lot activities.
        
@@ -139,8 +124,6 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
         
 
 <br>&nbsp;
-
-
 2017&nbsp;&nbsp;&nbsp;&nbsp;Spent my summer in nearby college, doing simple tasks.
 
 
@@ -166,7 +149,6 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A former Google employee started a project "TeachGirlsCoding"
         
 <br>&nbsp;
-
 2018&nbsp;&nbsp;&nbsp;&nbsp;I was one of the first ones to join. Taught myself basic coding.
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Emailed the starter to see if I could do something more.
         
@@ -214,7 +196,6 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Got my first tattoo. I designed it over this year.
       
 <br>&nbsp;
-
 2019&nbsp;&nbsp;&nbsp;&nbsp;Had to admit, Math is way more difficult than I thoughted.
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and somehow I doubted.
 
