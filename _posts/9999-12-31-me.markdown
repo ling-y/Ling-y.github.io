@@ -14,65 +14,65 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 
 <br>Twenty years in a nutshell：
 
-2000     "Hello World"
+2000<br>&nbsp;&nbsp;&nbsp;&nbsp;"Hello World"
         
-2001     Growing...
+2001&nbsp;&nbsp;&nbsp;&nbsp;Growing...
        
-2002     Walking、speaking、fighting over a toy...
+2002&nbsp;&nbsp;&nbsp;&nbsp;Walking、speaking、fighting over a toy...
         
-2003     Starting to remember things。
+2003&nbsp;&nbsp;&nbsp;&nbsp;Starting to remember things。
         
-2004     As a kid, I was not fond of picture-taking.
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because I hated standing still.
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frowned everytime I was taking a photo.
+2004&nbsp;&nbsp;&nbsp;&nbsp;As a kid, I was not fond of picture-taking.
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because I hated standing still.
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frowned everytime I was taking a photo.
         
-2005     My parents still make fun of me cause of this, 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I just pretend I don't remember any of it.
+2005&nbsp;&nbsp;&nbsp;&nbsp;My parents still make fun of me cause of this, 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I just pretend I don't remember any of it.
         
-2006     I invented a game in my Elementary school,
+2006&nbsp;&nbsp;&nbsp;&nbsp;I invented a game in my Elementary school,
         
-2007     Which was called "Boys VS Girls".
+2007&nbsp;&nbsp;&nbsp;&nbsp;Which was called "Boys VS Girls".
         
-2008     I always chased after the boy I liked. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He couldn't overrun me,
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so I often held him as hostage.
+2008&nbsp;&nbsp;&nbsp;&nbsp;I always chased after the boy I liked. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He couldn't overrun me,
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so I often held him as hostage.
         
-2009     And to trade girls back from the boy-team using him.
+2009&nbsp;&nbsp;&nbsp;&nbsp;And to trade girls back from the boy-team using him.
         
-2010     This game went viral. Soon banned. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though we played secretly.
+2010&nbsp;&nbsp;&nbsp;&nbsp;This game went viral. Soon banned. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Though we played secretly.
                     
-2011     Met my best friend in Elementary. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A transfer. Real good at drawing.
+2011&nbsp;&nbsp;&nbsp;&nbsp;Met my best friend in Elementary. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A transfer. Real good at drawing.
         
-2012     Was the one 1st in class to talk to her. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still good buddies today.
+2012&nbsp;&nbsp;&nbsp;&nbsp;Was the one 1st in class to talk to her. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Still good buddies today.
         
-2013     Junior High was a pain. Way too much homeworks. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Especially for Math. 
-2013     I like Math, yet still felt pointless
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to complete all these incredibly massive homework.
-2013     I did the HWs selectively. Only the challenging ones. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teacher didn't like me for that.
+2013&nbsp;&nbsp;&nbsp;&nbsp;Junior High was a pain. Way too much homeworks. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Especially for Math. 
+2013&nbsp;&nbsp;&nbsp;&nbsp;I like Math, yet still felt pointless
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to complete all these incredibly massive homework.
+2013&nbsp;&nbsp;&nbsp;&nbsp;I did the HWs selectively. Only the challenging ones. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teacher didn't like me for that.
         
-2014     Made another friend good at drawing. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We discussed a lot, about books and paintings.
-2014     Started to write a romance novel. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heavily influenced by Wong Kar-Wai's work, 
-2014     There was this female assassin. More like a hero, Zorro.
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She only wears long black coats that are way to big.
-2014     Wrote 20k. Not finished. Few friends were willing to read it. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They all demanded me to write an ending.
+2014&nbsp;&nbsp;&nbsp;&nbsp;Made another friend good at drawing. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We discussed a lot, about books and paintings.
+2014&nbsp;&nbsp;&nbsp;&nbsp;Started to write a romance novel. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heavily influenced by Wong Kar-Wai's work, 
+2014&nbsp;&nbsp;&nbsp;&nbsp;There was this female assassin. More like a hero, Zorro.
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She only wears long black coats that are way to big.
+2014&nbsp;&nbsp;&nbsp;&nbsp;Wrote 20k. Not finished. Few friends were willing to read it. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They all demanded me to write an ending.
        
-2015     Troubled. Felt nobody would be good enough for her.
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made her leave the city lonely to pursue something greater.
-2015     Friends all complained. For the story not being romantic.
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had my standard test that year. Did well on Mathmatics.
-2015     Third friend good at drawing. Isn't that insteresting,
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that I am always surrounded by art people. I liked it.
+2015&nbsp;&nbsp;&nbsp;&nbsp;Troubled. Felt nobody would be good enough for her.
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made her leave the city lonely to pursue something greater.
+2015&nbsp;&nbsp;&nbsp;&nbsp;Friends all complained. For the story not being romantic.
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I had my standard test that year. Did well on Mathmatics.
+2015&nbsp;&nbsp;&nbsp;&nbsp;Third friend good at drawing. Isn't that insteresting,
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that I am always surrounded by art people. I liked it.
         
-2016     High school was relatively loosened and relaxing. 
-         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had free time. Did quite a lot activities.
+2016&nbsp;&nbsp;&nbsp;&nbsp;High school was relatively loosened and relaxing. 
+         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had free time. Did quite a lot activities.
 2016     I was invited into the math modeling club.
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forced to learn stuff that were too harsh for high school.
 2016     Started to do theater. Wrote scripts. Performed.
