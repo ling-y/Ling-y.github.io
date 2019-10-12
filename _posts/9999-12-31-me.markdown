@@ -35,7 +35,6 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I just pretend I don't remember any of it.
   
 <br>&nbsp;
-      
 2006&nbsp;&nbsp;&nbsp;&nbsp;I invented a game in my Elementary school,
    
 <br>&nbsp;
@@ -71,7 +70,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2013&nbsp;&nbsp;&nbsp;&nbsp;I did the HWs selectively. Only the challenging ones. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Teacher didn't like me for that.
  
- <br>&nbsp;       
+<br>&nbsp;
 2014&nbsp;&nbsp;&nbsp;&nbsp;Made another friend good at drawing. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We discussed a lot, about books and paintings.
       
@@ -84,7 +83,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2014&nbsp;&nbsp;&nbsp;&nbsp;Wrote 20k. Not finished. Few friends were willing to read it. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They all demanded me to write an ending.
       
-<br>&nbsp; 
+<br>&nbsp;
 2015&nbsp;&nbsp;&nbsp;&nbsp;Troubled. Felt nobody would be good enough for her.
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made her leave the city lonely to pursue something greater.
   
@@ -94,7 +93,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2015&nbsp;&nbsp;&nbsp;&nbsp;Third friend good at drawing. Isn't that insteresting,
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;that I am always surrounded by art people. I liked it.
     
-<br>&nbsp;    
+<br>&nbsp;
 2016&nbsp;&nbsp;&nbsp;&nbsp;High school was relatively loosened and relaxing. 
          <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Had free time. Did quite a lot activities.
        
@@ -156,9 +155,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 
 2018&nbsp;&nbsp;&nbsp;&nbsp;Set up Nanjing offline Workshop with his help. To be honest,
         <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;not many came. But even helping one person makes me happy.
-        
-
-
+     
 2018&nbsp;&nbsp;&nbsp;&nbsp;Finally received the patent for the Laser Theodolite.
 
 2018&nbsp;&nbsp;&nbsp;&nbsp;Stayed up late to finish personal essays. Started from beginning.
