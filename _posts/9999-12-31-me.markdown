@@ -23,8 +23,8 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 2003     Starting to remember things。
         
 2004     As a kid, I was not fond of picture-taking.
-         <br>        Because I hated standing still.
-         <br>        Frowned everytime I was taking a photo.
+         <br>&emsp&emsp&emsp&emsp&emspBecause I hated standing still.
+         <br>&emsp&emsp&emsp&emsp&emspFrowned everytime I was taking a photo.
         
 2005     My parents still make fun of me cause of this, 
          <br>        I just pretend I don't remember any of it.
