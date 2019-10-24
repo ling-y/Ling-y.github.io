@@ -309,7 +309,7 @@ description: 十个当中只得一个，万世沙砾当中一颗。I'm one out o
 <br>&nbsp;
 <br>&nbsp;
 <br>Click for some additional info：
-<br>- [背包客|Backpacking](http://lingyea.xyz/keep-moving/)
+<br>+ [背包客|Backpacking](http://lingyea.xyz/keep-moving/)
 <br>&nbsp;
 <br>一小部分充满纪念意义的视频作品|Videos:
 <br>+ [如何鉴别女权主义者-2017](https://www.bilibili.com/video/av12461144)
