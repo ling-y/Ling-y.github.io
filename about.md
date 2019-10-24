@@ -5,4 +5,4 @@ title: About
 
 Contact: doulingyan@outlook.com
 
-Or [Learn-More-About-Me](http://lingyea.xyz/me/)
+Or [Click-to-Learn-More-About-Me](http://lingyea.xyz/me/)
