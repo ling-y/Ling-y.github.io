@@ -1,7 +1,7 @@
 # Site configuration
 domain: "https://lingyes.xyz/"
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://ling-y.github.io/" # the base hostname & protocol for your site
+url: "https://ling-y.github.io" # the base hostname & protocol for your site
 permalink: /:title/
 # avatar: /murmur/assets/avatar.jpg
 # about: /murmur/assets/about.jpg
