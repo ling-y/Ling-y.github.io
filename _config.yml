@@ -37,7 +37,7 @@ ga_domain: https://lingyea.xyz
 # gems: ['jekyll-paginate']
 # Pagination
 paginate: 100
-paginate_path: /archive/page:num
+paginate_path: Lingggd.github.io/archive/page:num
 
 plugins:
     - jekyll-paginate
