@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "我我我我 | ME"
+title:  "【我】"
 date:   9999-12-31 12:00:00 +0800
 categories: jekyll theme
 location: Nanjing
