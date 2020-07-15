@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "疯子"
+title:  "【原创】疯子"
 date:   2020-07-15 13:05:14 +0100
 categories: jekyll theme
 author: LING
