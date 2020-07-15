@@ -5,7 +5,7 @@ date:   2020-07-15 13:05:14 +0100
 categories: jekyll theme
 author: LING
 location: LA
-
+description: 我妈说我是个疯子。我觉得挺好，我看世人皆疯癫，不少我这一个。
 ---
 
 
