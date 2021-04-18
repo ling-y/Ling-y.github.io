@@ -29,9 +29,9 @@ enable_comment: false
 # disqus_account: songroger
 
 
- #Google Analytics
-ga_track_id: 'UA-149664959-1'            # Format: UA-xxxxxx-xx
-ga_domain: https://lingyea.xyz
+#  #Google Analytics
+# ga_track_id: 'UA-149664959-1'            # Format: UA-xxxxxx-xx
+# ga_domain: https://lingyea.xyz
 
 
 # gems: ['jekyll-paginate']
